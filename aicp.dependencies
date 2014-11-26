@@ -6,7 +6,7 @@
  },
  {
    "repository": "AICP/device_lge_g3-common",
-   "target_path": "device/lge/g2-common",
+   "target_path": "device/lge/g3-common",
    "branch":      "lp5.0"
  },
  {
@@ -16,7 +16,7 @@
  },
  {
    "repository": "AICP/kernel_lge_g3",
-   "target_path": "kernel/lge/msm8974",
+   "target_path": "kernel/lge/g3",
    "branch":      "lp5.0"
  }
 ]
